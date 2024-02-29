@@ -1,0 +1,6 @@
+[submodule "SR-electromechanical"]
+	path = SR-electromechanical
+	url = https://github.com/SynthRevolutionResearch/SynthResearch-electromechanical
+[submodule "SR-code"]
+	path = SR-code
+	url = https://github.com/SynthRevolutionResearch/SynthResearch-code
